@@ -7,7 +7,7 @@ This is a project with NextJs | TailwindCss | React
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [NextJS](https://nextjs.org/) (and disable Vetur) + [Tailwind CSS](https://tailwindcss.com/).
+[VSCode](https://code.visualstudio.com/) + [NextJS](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/).
 
 
 ## Project Setup
