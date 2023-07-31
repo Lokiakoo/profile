@@ -2,6 +2,8 @@
 
 This is a project with NextJs | TailwindCss | React
 
+[https://profile-lokiakoo.vercel.app/](https://profile-lokiakoo.vercel.app/)
+
 
 ## Recommended IDE Setup
 
