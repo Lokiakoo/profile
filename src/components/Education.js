@@ -73,7 +73,7 @@ const Education = () => {
                 info="One year in Hospitality Industry Training & Development Centre offers programs for hospitality industry training. "
                 />
                 <Details
-                type="F5 graduate"
+                type="Graduate"
                 time="Sep 2003 - Jun 2008"
                 place="Tin Shui Wai Government Secondary School"
                 info="Hong Kong Certificate of Education Examination (HKCEE)"
